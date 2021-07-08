@@ -5,7 +5,26 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users":[
+   {
+      "id": 1,
+      "nombre": "Juan",
+      "apellidopaterno": "Perez",
+      "apellidomaterno": "Martinez",
+      "celular": "+5255556565",
+      "ocupacion": "estudiante",
+      "score": "650",
+      "cantidad": "50000"
+   },
+   {
+      "id": 2,
+      "nombre": "Jorge",
+      "apellidopaterno": "Perez",
+      "apellidomaterno": "Mata",
+      "celular": "+5255556565",
+      "ocupacion": "ninguna",
+      "score": "300",
+      "cantidad": "50000"
+   }
+ ]
 }
