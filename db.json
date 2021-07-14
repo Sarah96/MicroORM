@@ -1,15 +1,14 @@
 {
    "message":"",
-   "data":{
+   "data":[
       "nombre":"Demo",
       "apellido":"Lopez",
       "email":"carlos.garcia@addcel.com",
       "cargo":10,
       "comision":0,
       "status":0
-   },
-   "code":0
-},
+      ],
+   "code":0,
   
   "posts": [
     {
