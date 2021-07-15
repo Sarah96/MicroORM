@@ -1,6 +1,6 @@
 {
  "message":"",
-   "data":
+   "data":[
     {
       "nombre":"Demo",
       "apellido":"Lopez",
@@ -9,6 +9,7 @@
       "comision":0,
       "status":0
     }
+   ]
    ,
    "code":0
 }
