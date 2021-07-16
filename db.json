@@ -1,12 +1,204 @@
 {
-   "message":"",
-   "data":{
+   "data": [
+      {
       "nombre":"Demo",
       "apellido":"Lopez",
       "email":"carlos.garcia@addcel.com",
       "cargo":10,
       "comision":0,
       "status":0
+      }
+    ],
+   
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "accepted": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellidopaterno": "Perez",
+      "apellidomaterno": "Martinez",
+      "celular": "+5255556565",
+      "ocupacion": "estudiante",
+      "score": "650",
+      "cantidad": "50000"
    },
-   "code":0
+   {
+      "id": 2,
+      "nombre": "Jorge",
+      "apellidopaterno": "Perez",
+      "apellidomaterno": "Mata",
+      "celular": "+5255556565",
+      "ocupacion": "ninguna",
+      "score": "300",
+      "cantidad": "50000"
+   },
+   {
+      "id": 3,
+      "nombre": "Pancho",
+      "apellidopaterno": "Torrez",
+      "apellidomaterno": "German",
+      "celular": "+5255556565",
+      "ocupacion": "estudiante",
+      "score": "200",
+      "cantidad": "60000"
+   },
+   {
+      "id": 4,
+      "nombre": "Luis",
+      "apellidopaterno": "Pancho",
+      "apellidomaterno": "German",
+      "celular": "+5255556565",
+      "ocupacion": "estudiante",
+      "score": "758",
+      "cantidad": "80000"
+   },
+   {
+      "id": 5,
+      "nombre": "Mario",
+      "apellidopaterno": "Netas",
+      "apellidomaterno": "German",
+      "celular": "+5255556565",
+      "ocupacion": "Trabajador",
+      "score": "958",
+      "cantidad": "80000"
+   },
+   {
+      "id": 6,
+      "nombre": "Wen",
+      "apellidopaterno": "Hulk",
+      "apellidomaterno": "German",
+      "celular": "+5255556565",
+      "ocupacion": "ninguna",
+      "score": "750",
+      "cantidad": "80000"
+   }
+  ],
+  "users":[
+    
+   {
+      "id": 1,
+      "nombre": "Juan",
+      "apellidopaterno": "Perez",
+      "apellidomaterno": "Martinez",
+      "celular": "+5255556565",
+      "ocupacion": "estudiante",
+      "score": "650",
+      "cantidad": "50000"
+   },
+   {
+      "id": 2,
+      "nombre": "Jorge",
+      "apellidopaterno": "Perez",
+      "apellidomaterno": "Mata",
+      "celular": "+5255556565",
+      "ocupacion": "ninguna",
+      "score": "300",
+      "cantidad": "50000"
+   },
+   {
+      "id": 3,
+      "nombre": "Pancho",
+      "apellidopaterno": "Torrez",
+      "apellidomaterno": "German",
+      "celular": "+5255556565",
+      "ocupacion": "estudiante",
+      "score": "200",
+      "cantidad": "60000"
+   },
+   {
+      "id": 4,
+      "nombre": "Luis",
+      "apellidopaterno": "Pancho",
+      "apellidomaterno": "German",
+      "celular": "+5255556565",
+      "ocupacion": "estudiante",
+      "score": "758",
+      "cantidad": "80000"
+   },
+   {
+      "id": 5,
+      "nombre": "Mario",
+      "apellidopaterno": "Netas",
+      "apellidomaterno": "German",
+      "celular": "+5255556565",
+      "ocupacion": "Trabajador",
+      "score": "958",
+      "cantidad": "80000"
+   },
+   {
+      "id": 6,
+      "nombre": "Wen",
+      "apellidopaterno": "Hulk",
+      "apellidomaterno": "German",
+      "celular": "+5255556565",
+      "ocupacion": "ninguna",
+      "score": "750",
+      "cantidad": "80000"
+   },
+   {
+      "id": 7,
+      "nombre": "Benito",
+      "apellidopaterno": "Hulk",
+      "apellidomaterno": "Menta",
+      "celular": "+5255556565",
+      "ocupacion": "Trabajador",
+      "score": "850",
+      "cantidad": "9000"
+   },
+   {
+      "id": 8,
+      "nombre": "Fer",
+      "apellidopaterno": "Herrera",
+      "apellidomaterno": "Menta",
+      "celular": "+5255556565",
+      "ocupacion": "ninguna",
+      "score": "600",
+      "cantidad": "5000"
+   },
+   {
+      "id": 9,
+      "nombre": "Juana",
+      "apellidopaterno": "Herrera",
+      "apellidomaterno": "Menta",
+      "celular": "+5255556565",
+      "ocupacion": "Trabajador",
+      "score": "900",
+      "cantidad": "500"
+   },
+   {
+      "id": 10,
+      "nombre": "Luis",
+      "apellidopaterno": "Nene",
+      "apellidomaterno": "Menta",
+      "celular": "+5255556565",
+      "ocupacion": "ninguna",
+      "score": "900",
+      "cantidad": "500"
+   },
+   {
+      "id": 11,
+      "nombre": "Brayan",
+      "apellidopaterno": "Mendez",
+      "apellidomaterno": "Menta",
+      "celular": "+5255556565",
+      "ocupacion": "ninguna",
+      "score": "400",
+      "cantidad": "8500"
+   },
+   {
+      "id": 12,
+      "nombre": "Jazmin",
+      "apellidopaterno": "Mendez",
+      "apellidomaterno": "Menta",
+      "celular": "+5255556565",
+      "ocupacion": "estudiante",
+      "score": "200",
+      "cantidad": "800"
+   }
+]
 }
