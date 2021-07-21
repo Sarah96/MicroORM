@@ -37,7 +37,7 @@
       "ocupacion": "ninguna",
       "score": "300",
       "cantidad": "50000",
-      "status": "pending
+      "status": "pending"
    },
    {
       "id": 3,
@@ -58,7 +58,7 @@
       "ocupacion": "estudiante",
       "score": "758",
       "cantidad": "80000",
-      "status": "pending
+      "status": "pending"
    },
    {
       "id": 5,
@@ -68,7 +68,8 @@
       "celular": "+5255556565",
       "ocupacion": "Trabajador",
       "score": "958",
-      "cantidad": "80000"
+      "cantidad": "80000",
+      "status": "pending"
    },
    {
       "id": 6,
@@ -92,7 +93,7 @@
       "ocupacion": "estudiante",
       "score": "650",
       "cantidad": "50000",
-      "status": "pending
+      "status": "pending"
    },
    {
       "id": 2,
@@ -103,7 +104,7 @@
       "ocupacion": "ninguna",
       "score": "300",
       "cantidad": "50000",
-      "status": "pending
+      "status": "pending"
    },
    {
       "id": 3,
@@ -114,7 +115,7 @@
       "ocupacion": "estudiante",
       "score": "200",
       "cantidad": "60000",
-      "status": "pending
+      "status": "pending"
    },
    {
       "id": 4,
@@ -135,7 +136,7 @@
       "ocupacion": "Trabajador",
       "score": "958",
       "cantidad": "80000",
-      "status": "pending
+      "status": "pending"
    },
    {
       "id": 6,
@@ -157,7 +158,7 @@
       "ocupacion": "Trabajador",
       "score": "850",
       "cantidad": "9000",
-      "status": "pending
+      "status": "pending"
    },
    {
       "id": 8,
@@ -168,7 +169,7 @@
       "ocupacion": "ninguna",
       "score": "600",
       "cantidad": "5000",
-      "status": "pending
+      "status": "pending"
    },
    {
       "id": 9,
@@ -179,7 +180,7 @@
       "ocupacion": "Trabajador",
       "score": "900",
       "cantidad": "500",
-      "status": "pending
+      "status": "pending"
    },
    {
       "id": 10,
@@ -190,7 +191,7 @@
       "ocupacion": "ninguna",
       "score": "900",
       "cantidad": "500",
-      "status": "pending
+      "status": "pending"
    },
    {
       "id": 11,
@@ -201,7 +202,7 @@
       "ocupacion": "ninguna",
       "score": "400",
       "cantidad": "8500",
-      "status": "pending
+      "status": "pending"
    },
    {
       "id": 12,
@@ -212,7 +213,7 @@
       "ocupacion": "estudiante",
       "score": "200",
       "cantidad": "800",
-      "status": "pending
+      "status": "pending"
    }
 ]
 }
