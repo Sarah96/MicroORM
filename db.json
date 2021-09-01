@@ -2,7 +2,7 @@
    
   "cardholders": [
     {
-      "id": "11",
+      "id": 11,
       "full_name": "Whitley Justice",
       "age": "28",
       "email": "whitleyjustice@marqet.com",
@@ -11,7 +11,7 @@
       "updated_at": "2017-02-15T22:22:45.500Z" 
     },
      {
-      "id": "21",
+      "id": 21,
       "full_name": "Teresa Hays",
       "age": "30",
       "email": "teresahays@marqet.com",
@@ -23,19 +23,19 @@
    
   "card_info": [
     {
-      "id": "1",
+      "id": 1,
       "card_number": "5555555555554444",
       "bank": "Azteca",
-      "cardholder_id": "11",
+      "cardholder_id": 11,
       "status": "active",
       "created_at": "2017-02-15T22:22:45.500Z", 
       "balance": 250 
     },
       {
-      "id": "2",
+      "id": 2,
       "card_number": "4000056655665556",
       "bank": "HSBC",
-      "cardholder_id": "11",
+      "cardholder_id": 11,
       "status": "active",
       "created_at": "2017-02-15T22:22:45.500Z", 
       "balance": 3660.7
@@ -44,7 +44,7 @@
       "id": 3,
       "card_number": "378282246310005",
       "bank": "BbVa",
-      "cardholder_id": "11",
+      "cardholder_id": 11,
       "status": "active",
       "created_at": "2017-02-15T22:22:45.500Z", 
       "balance": 300.05 
@@ -53,7 +53,7 @@
       "id": 01,
       "card_number": "371449635398431",
       "bank": "Santander",
-      "cardholder_id": "21",
+      "cardholder_id": 21,
       "status": "active",
       "created_at": "2017-02-15T22:22:45.500Z", 
       "balance": 1000.01 
