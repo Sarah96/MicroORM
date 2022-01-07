@@ -60,7 +60,6 @@
     } 
   ],
  "user": [  
-   "189FF":[ 
     {
       "id": 11,
       "name": "Josue Ocampo Nunez",
@@ -77,8 +76,7 @@
       "expiry_month": "08",
        "expiry_year": "23",
        "cvv": "977" 
-    }]
-   
+    }
   ]
  
  
