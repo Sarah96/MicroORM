@@ -58,25 +58,6 @@
       "created_at": "2017-02-15T22:22:45.500Z", 
       "balance": "1000" 
     } 
-  ],
- "user": [  
-    {
-      "id": 11,
-      "name": "Josue Ocampo Nunez",
-      "email": "prueba3dsecure@srpago.com",
-      "age": "28",
-      "phone": "5555555555",
-      "street": "Homero",
-      "city": "City",
-      "zipcode": "11560",
-      "town": "Polanco",
-      "ip": "189.225.64.181",
-      "owner": "Josue Ocampo Nunez",
-      "number": "5200000000000007",
-      "expiry_month": "08",
-       "expiry_year": "23",
-       "cvv": "977" 
-    }
   ]
  
  
