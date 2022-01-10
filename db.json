@@ -62,6 +62,8 @@
    "users":
    [
       {
+         "id": 121,
+         "amount": 1000,
          "name": "Josue Ocampo Nunez",
          "email": "prueba3dsecure@srpago.com",
          "phone": "5555555555",
